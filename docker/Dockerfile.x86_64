@@ -112,7 +112,7 @@ RUN python3 -m pip install -U \
         "numpy<2" \
         numpy-quaternion \
         pyyaml \
-        setuptools_scm>=6.2 \
+        setuptools_scm==6.0 \
         trimesh \
         yourdfpy>=0.0.53 \
         warp-lang>=0.9.0 \
